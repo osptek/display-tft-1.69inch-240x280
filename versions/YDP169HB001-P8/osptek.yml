@@ -1,0 +1,10 @@
+id: YDP169HB001-P8
+category: displays
+size: "1.69"
+panel: tft
+resolution: 240x280
+interface: [spi]
+driver: ST7789V3
+touch: null
+outline: 30.07 x 37.43 mm
+active_area: 27.972 x 32.634 mm

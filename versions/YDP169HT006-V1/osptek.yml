@@ -1,0 +1,10 @@
+id: YDP169HT006-V1
+category: displays
+size: "1.69"
+panel: tft
+resolution: 240x280
+interface: [spi, i2c]
+driver: ST7789P3
+touch: CST816T
+outline: 33.13 x 41.13 mm
+active_area: 27.972 x 32.634 mm
