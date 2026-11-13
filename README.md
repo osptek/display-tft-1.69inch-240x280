@@ -37,7 +37,7 @@
 
 | 版本 | 宣传图 | 驱动 IC | 触摸驱动 | 接口 | 完整资料 |
 | ---- | ------ | ------- | -------- | ---- | -------- |
-| YDP169H001-V3 | <img alt="YDP169H001-V3" src="./versions/YDP169H001-V3/images/product.png" width="120" /> | ST7789V3 | — | SPI | [完整资料](./versions/YDP169H001-V3/) |
+| YDP169H001-V3 | <img alt="YDP169H001-V3" src="./versions/YDP169H001-V3/images/recommend-optimized%20%281%29.png" width="120" /> | ST7789V3 | — | SPI | [完整资料](./versions/YDP169H001-V3/) |
 | YDP169HT003-V1 | <img alt="YDP169HT003-V1" src="./versions/YDP169HT003-V1/images/recommend-optimized.png" width="120" /> | ST7789P3 | — | SPI | [完整资料](./versions/YDP169HT003-V1/) |
 | YDP169HT006-V1 | <img alt="YDP169HT006-V1" src="./versions/YDP169HT006-V1/images/product.png" width="120" /> | ST7789P3 | CST816T | SPI | [完整资料](./versions/YDP169HT006-V1/) |
 
