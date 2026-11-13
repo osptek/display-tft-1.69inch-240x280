@@ -12,7 +12,7 @@
   <img alt="Touch: CST816T" src="https://img.shields.io/badge/Touch-CST816T-F39C12?style=flat-square" />
 </p>
 
-<p align="center"><img alt="OSPTEK 1.69&quot; 240×280 TFT module product image" src="./images/product.png" width="640" /></p>
+<p align="center"><img alt="OSPTEK 1.69&quot; 240×280 TFT module product image" src="./images/recommend-optimized%20%281%29.png" width="640" /></p>
 
 ## Contents
 
